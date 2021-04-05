@@ -10,6 +10,7 @@ Run the script on a CLI by navingating to the main directory and using one the f
 > ./scripts/test_algo_linux "algorithm name"
 
 > ./scripts/test_algo_windows "algorithm name"
+
 Replace "algorithm name" with the name of the folder containing the algo_strategy.py file.
 
 For example:
